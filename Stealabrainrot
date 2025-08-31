@@ -1,5 +1,5 @@
-local message = "more script keyless here https://discord.gg/yX7tyWCR"
-setclipboard(message)
+local message = "more script keyless here https://discord.gg/yXfAsJ92"
+setclipboard(messagl
 game.StarterGui:SetCore("SendNotification", {
 Title = "Clipboard";
 Text = "(Free ranks in discord for 100 first) now way better faster finder more scripts keyless here!";
