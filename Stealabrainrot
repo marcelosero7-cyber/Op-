@@ -1,4 +1,4 @@
-local message = "more script keyless here https://discord.gg/g7bKSXk8"
+local message = "more script keyless here btw this is old version https://discord.gg/KXY9VTX4"
 setclipboard(messagl
 game.StarterGui:SetCore("SendNotification", {
 Title = "Clipboard";
